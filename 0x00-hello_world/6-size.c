@@ -6,7 +6,6 @@ long int lu;
 long long int lf;
 float f;
 
-int main(void)
 {
 	printf(sizeof(c));
 	printf(sizeof(d));
