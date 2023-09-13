@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/**
+ * main - Entry point
+ *
+ * Description: uses putchar to print all single digit numbers of base 10 from 0
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int i;
