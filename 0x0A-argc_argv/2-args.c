@@ -4,7 +4,7 @@
  * @argc: count
  * @argv: pointer
  *
- * Retun: 0 success
+ * Return: integer 0
  */
 int main(int argc, char *argv[])
 {
